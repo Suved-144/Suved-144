@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Any
 - 📫 How to reach me: ... LinkedIn
 - 😄 Pronouns: ... Sumit
-- ⚡ Fun fact: ...  I am really forgetful sometimes.
+- ⚡ Fun fact: ...  I am really forgetful sometimes
 -->
