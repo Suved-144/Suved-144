@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Sumit
 - ⚡ Fun fact: ...  I am really forgetful sometimes
 -->
+My name is Mahesh Sanjay Gaikwad, from akluj,india.
+
+- 🌱 I’m currently learning ...Computer Science.
+- 🤔 I’m looking for help with ...you guys.
+- 💬 Ask me about ...anything about technology.
+- 📫 How to reach me: ...<a href="https://www.linkedin.com/in/code-with-monster-12b3521aa">linkdin</a>
+- 😄 Pronouns: ...mahi
+- ⚡ Fun fact: ...i love coding.
