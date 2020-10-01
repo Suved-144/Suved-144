@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Suved-144/Suved-144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
