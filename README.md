@@ -13,9 +13,9 @@ Here are some ideas to get you started:
  - ⚡ Fun fact: ...  I am really forgetful sometimes
  
 
+![Suved's Stats](https://github-readme-stats.vercel.app/api?username=Suved-144&count_private=true&show_icons=true&theme=radical)
 
-
-
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suved-144&show_icons=true&theme=radical)
 
 
 
