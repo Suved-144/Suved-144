@@ -3,7 +3,7 @@ Hi
 
 Here are some ideas to get you started:
 
- - 🔭 I’m currently working on ... Web Scraping project
+ - 🔭 I’m currently working on ... ML Projects
  - 🌱 I’m currently learning ... DS
  - 👯 I’m looking to collaborate on ... AI StartUp Company..
  - 🤔 I’m looking for help with ... You Guys
