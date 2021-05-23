@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Suved's Stats](https://github-readme-stats.vercel.app/api?username=Suved-144&show_icons=true&theme=gruvbox)
 
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suved-144&layout=compact)](https://github.com/Suved-144/github-readme-stats)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suved-144&layout=compact)]
 
 
 
