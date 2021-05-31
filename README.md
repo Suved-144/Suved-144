@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  - 🤔 I’m looking for help with ... You Guys
  - 💬 Ask me about ... Any
  - 📫 How to reach me: ... LinkedIn
- - 😄 Pronouns: ... Sumit
+ - 😄 Pronouns: ... appa
  - ⚡ Fun fact: ...  I am really forgetful sometimes
  
 
